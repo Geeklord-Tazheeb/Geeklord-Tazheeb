@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=geeklord-tazheeb&show_icons=true&locale=en" alt="geeklord-tazheeb" /></p>
 
-<p><img align="middler"  src="https://github-readme-streak-stats.herokuapp.com/?user=geeklord-tazheeb&" alt="geeklord-tazheeb" /></p>
+
