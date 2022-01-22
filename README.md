@@ -34,6 +34,6 @@
 
 <p><img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeklord-tazheeb&show_icons=true&locale=en&layout=compact" alt="geeklord-tazheeb" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=geeklord-tazheeb&show_icons=true&locale=en" alt="geeklord-tazheeb" /></p>
+<p><img align="right" width="auto" src="https://github-readme-stats.vercel.app/api?username=geeklord-tazheeb&show_icons=true&locale=en" alt="geeklord-tazheeb" /></p>
 
 
