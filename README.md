@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Chat-Buzz,  a Web-ChatApp*
 
-- 🌱 I’m currently learning **Python,NextJs,Advance JavaScript**
+- 🌱 I’m currently learning **Python,React Js,NextJs,Advance JavaScript**
 
 - 🤝 I’m looking for help with **APIs**
 
