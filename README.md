@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeklord-tazheeb&label=Profile%20views&color=0e75b6&style=flat" alt="geeklord-tazheeb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geeklord-tazheeb" alt="geeklord-tazheeb" /></a> </p>
-
-
 
 - 🔭 I’m currently working on **Chat-Buzz,  a Web-ChatApp*
 
@@ -20,6 +17,25 @@
 - 📄 Know about my experiences [tazheeb.com](tazheeb.com)
 
 - ⚡ Fun fact **tea over coffee**
+
+---
+### My stack mostly includes
+![](https://img.shields.io/badge/-javascript-yellow?style=flat)
+![](https://img.shields.io/badge/-node-brightgreen?style=flat)
+![](https://img.shields.io/badge/-reactJs-blue?style=flat)
+![](https://img.shields.io/badge/-git-red?style=flat)
+<br/>
+![](https://img.shields.io/badge/-aws-yellow?style=flat)
+![](https://img.shields.io/badge/-nosql-red?style=flat)
+![](https://img.shields.io/badge/-REST-blue?style=flat)
+![](https://img.shields.io/badge/-firebase-brightgreen?style=flat)
+<br>
+![](https://img.shields.io/badge/-hroku-blue?style=flat)
+![](https://img.shields.io/badge/-vercel-red?style=flat)
+![](https://img.shields.io/badge/-netlify-yellow?style=flat)
+<br>
+![](https://img.shields.io/badge/-express-green?style=flat)
+![](https://img.shields.io/badge/-nextJs-red?style=flat)
 
 ---
 
@@ -43,7 +59,7 @@
 ---
 <!-- STATISTICS ABOUT PROFILE -->
 
- 📶 Stats:<br><br>
+ ### 📶 Stats:<br><br>
  
  
 <!--  TOP LANGUAGES STATISTICS -->
@@ -64,10 +80,14 @@
 
 
 ---
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geeklord-tazheeb" alt="geeklord-tazheeb" /></a> </p>
+ 
+---
  
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Tazheeb's github activity graph](https://activity-graph.herokuapp.com/graph?username=Geeklord-Tazheeb&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
 
   <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+ 
 
