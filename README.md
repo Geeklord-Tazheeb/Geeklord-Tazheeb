@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **APIs**
 
-- 👨‍💻 All of my projects are available at [tazheeb.com](hhtps://www.tazheeb.com)
+- 👨‍💻 All of my projects are available at [This is an external link to tazheeb.com] (https://www.tazheeb.com/)
 
 - 💬 Ask me about **React Js**
 
