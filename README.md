@@ -10,11 +10,11 @@
 
 - 🤝 I’m looking for help with **APIs**
 
-- 👨‍💻 All of my projects are available at [my portfolio] (https://www.tazheeb.com/)
+- 👨‍💻 All of my projects are available at [tazheeb.com] (https://www.tazheeb.com/)
 
 - 💬 Ask me about **React Js**
 
-- 📄 Know about my experiences [tazheeb.com](tazheeb.com)
+- 📄 Know about my experiences [tazheeb.com](https://www.tazheeb.com/)
 
 - ⚡ Fun fact **tea over coffee**
 
