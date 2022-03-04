@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-git-red?style=flat)
 <br/>
 ![](https://img.shields.io/badge/-aws-yellow?style=flat)
-![](https://img.shields.io/badge/-nosql-red?style=flat)
+![](https://img.shields.io/badge/-noSQL-red?style=flat)
 ![](https://img.shields.io/badge/-REST-blue?style=flat)
 ![](https://img.shields.io/badge/-firebase-brightgreen?style=flat)
 <br>
