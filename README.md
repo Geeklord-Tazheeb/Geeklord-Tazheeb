@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/-firebase-brightgreen?style=flat)
 <br>
 ![](https://img.shields.io/badge/-hroku-blue?style=flat)
-![](https://img.shields.io/badge/-vercel-red?style=flat)
+![](https://img.shields.io/badge/-vercel-brightgreen?style=flat)
 ![](https://img.shields.io/badge/-netlify-yellow?style=flat)
 <br>
 ![](https://img.shields.io/badge/-express-green?style=flat)
