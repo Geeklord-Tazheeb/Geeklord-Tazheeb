@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Tazheeb Shamsi</h1>
 <h3 align="center">A passionate Full Stack Developer from India :india:</h3>
 
+<div align="center">
+  <img src="./frontend.svg" height="300px" />
+  <p>
+    <a name="stars"><img src="https://img.shields.io/github/stars/Geeklord-Tazheeb
+/Geeklord-Tazheeb
+?style=for-the-badge"></a>
+    <a name="forks"><img src="https://img.shields.io/github/forks/Geeklord-Tazheeb
+/Geeklord-Tazheeb
+?logoColor=green&style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/Geeklord-Tazheeb
+/Geeklord-Tazheeb
+?logoColor=green&style=for-the-badge"></a>
+    <a name="license"><img src="https://img.shields.io/github/license/Geeklord-Tazheeb
+/Geeklord-Tazheeb
+?style=for-the-badge"></a>
+  </p>
+  Show your support by giving a ⭐&nbsp;&nbsp;to this repo
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeklord-tazheeb&label=Profile%20views&color=0e75b6&style=flat" alt="geeklord-tazheeb" /> </p>
 
 
