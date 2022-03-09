@@ -4,19 +4,10 @@
 <div align="center">
   <img src="./frontend.svg" height="300px" />
   <p>
-    
-    <a name="stars"><img src="https://img.shields.io/github/stars/Geeklord-Tazheeb
-/Geeklord-Tazheeb"
-?style=for-the-badge"></a>
-    <a name="forks"><img src="https://img.shields.io/github/forks/Geeklord-Tazheeb
-/Geeklord-Tazheeb"
-?logoColor=green&style=for-the-badge"></a>
-    <a name="contributions"><img src="https://img.shields.io/github/contributors/Geeklord-Tazheeb
-/Geeklord-Tazheeb"
-?logoColor=green&style=for-the-badge"></a>
-    <a name="license"><img src="https://img.shields.io/github/license/Geeklord-Tazheeb
-/Geeklord-Tazheeb"
-?style=for-the-badge"></a>
+    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
+    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
+    <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
   </p>
   Show your support by giving a ⭐&nbsp;&nbsp;to this repo
 </div>
