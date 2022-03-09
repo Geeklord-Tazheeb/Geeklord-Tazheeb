@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India :india:</h3>
 
 <div align="center">
-  <img src="https://svgshare.com/f/f0c" height="300px" />
+  <img src="https://svgshare.com/i/f0c.svg" height="300px" />
   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
