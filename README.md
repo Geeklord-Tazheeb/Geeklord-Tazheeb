@@ -6,16 +6,16 @@
   <p>
     
     <a name="stars"><img src="https://img.shields.io/github/stars/Geeklord-Tazheeb
-/Geeklord-Tazheeb">
+/Geeklord-Tazheeb"
 ?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/Geeklord-Tazheeb
-/Geeklord-Tazheeb">
+/Geeklord-Tazheeb"
 ?logoColor=green&style=for-the-badge"></a>
     <a name="contributions"><img src="https://img.shields.io/github/contributors/Geeklord-Tazheeb
-/Geeklord-Tazheeb">
+/Geeklord-Tazheeb"
 ?logoColor=green&style=for-the-badge"></a>
     <a name="license"><img src="https://img.shields.io/github/license/Geeklord-Tazheeb
-/Geeklord-Tazheeb">
+/Geeklord-Tazheeb"
 ?style=for-the-badge"></a>
   </p>
   Show your support by giving a ⭐&nbsp;&nbsp;to this repo
