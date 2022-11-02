@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tazheeb Shamsi</h1>
-<h3 align="center">A passionate Full Stack Developer from India :india:</h3>
+<h3 align="center">A passionate Full Stack Developer from India </h3>
 
 <div align="center">
   <img src="https://svgshare.com/i/f0c.svg" height="300px" />
