@@ -77,7 +77,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazheeb-shamsi&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  <!--  CONTRIBUTION AND STREAK BLOCK -->
-<p><img align="center" width="auto" src="https://github-readme-stats.vercel.app/api?username=tazheeb-shamsi&show_icons=true&locale=en" alt="geeklord-tazheeb" /></p>
+<p><img align="center" width="auto" src="https://github-readme-stats.vercel.app/api?username=tazheeb-shamsi&show_icons=true&locale=en" alt="tazheeb-shamsi" /></p>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tazheeb-shamsi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
@@ -91,7 +91,7 @@
 
 
 ---
- <p align="left"> <a href="https://github.com/tazheeb-shamsi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="tazheeb-shamsi" alt="tazheeb-shamsi" /></a> </p>
+ <p align="left"> <a href="https://github.com/tazheeb-shamsi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazheeb-shamsi alt="tazheeb-shamsi" /></a> </p>
  
 ---
  
