@@ -91,7 +91,7 @@
 
 
 ---
- <p align="left"> <a href="https://github.com/tazheeb-shamsi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazheeb-shamsi alt="tazheeb-shamsi" /></a> </p>
+ <p align="left"> <a href="https://github.com/tazheeb-shamsi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="tazheeb-shamsi" alt="tazheeb-shamsi" /></a> </p>
  
 ---
  
