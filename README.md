@@ -96,7 +96,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Tazheeb's github activity graph](https://activity-graph.herokuapp.com/graph?username=tazheeb-shamsi&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+[![Tazheeb's github activity graph](https://activity-graph.herokuapp.com/graph?username=tazheeb-shamsi&theme=react-dark)](https://github.com/tazheeb-shamsi/github-readme-activity-graph)
 
   <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
