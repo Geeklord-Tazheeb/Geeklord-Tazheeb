@@ -93,18 +93,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=dev-pedia" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=flipkart" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=dev-pedia" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=tesla" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=ebay-clone" />
 </a><a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=Doctor-Appintment-Booking" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=disney-plus-clone" />
+</a><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=phanox-store" />
 </a>
 
 ---
