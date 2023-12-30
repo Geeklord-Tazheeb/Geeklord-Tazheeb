@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on \*_devPedia, a fprum for developers_
 
-- 🌱 I’m currently learning **DS Algo,Rust,NextJs**
+- 🌱 I’m currently learning **DS Algo, Rust, Next.js**
 
 - 🤝 I’m looking for help with **Node.js**
 
