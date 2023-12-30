@@ -78,14 +78,34 @@
 
 ### 📶 Stats:<br><br>
 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
 <!--  TOP LANGUAGES STATISTICS -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazheeb-shamsi&theme=light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazheeb-shamsi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
- <!--  CONTRIBUTION AND STREAK BLOCK -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tazheeb-shamsi&count_private=true&show_icons=true&theme=light)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=dev-pedia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=dev-pedia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+</a><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=learnbay-lms" />
+</a>
 
 ---
 
