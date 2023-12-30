@@ -14,11 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeklord-tazheeb&label=Profile%20views&color=0e75b6&style=flat" alt="geeklord-tazheeb" /> </p>
 
-- 🔭 I’m currently working on \*_Chat-Buzz, a Web-ChatApp_
+- 🔭 I’m currently working on \*_devPedia, a fprum for developers_
 
-- 🌱 I’m currently learning **Python,React Js,NextJs,Advance JavaScript**
+- 🌱 I’m currently learning **DS Algo,Rust,NextJs**
 
-- 🤝 I’m looking for help with **APIs**
+- 🤝 I’m looking for help with **Node.js**
 
 - 👨‍💻 All of my projects are available at [tazheeb.com](https://www.tazheeb.com/)
 
