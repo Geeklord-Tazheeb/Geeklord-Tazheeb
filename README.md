@@ -90,7 +90,7 @@
 ---
 ### My Favourite Builds
 <a href="https://github.com/tazheeb-shamsi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=dev-pedia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tazheeb-shamsi&repo=zoom-meeting-web" />
 </a>
 
 <a href="https://github.com/tazheeb-shamsi/github-readme-stats">
