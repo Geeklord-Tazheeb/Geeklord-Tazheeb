@@ -103,7 +103,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%3ECF8E.svg?style=plastic&logo=jira&logoColor=white)
 ![Jira](https://img.shields.io/badge/trello-%23326ce5.svg?style=plastic&logo=trello&logoColor=white)
 
 # 🌟 GitHub Stats:
