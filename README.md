@@ -31,10 +31,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Tazheeb-Shamsi&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tazheeb-Shamsi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tazheeb-Shamsi&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
   <!--NOMINATION FOR STAR GIT LINK CODE-->
 
