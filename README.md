@@ -4,16 +4,23 @@
 <div align="center">
   <img src="https://sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" height="300px" />
   <p>
-    <a name="stars"><img src="https://img.shields.io/github/stars/tazheeb-shamsi/dev-pedia?style=for-the-badge"></a>
-    <a name="forks"><img src="https://img.shields.io/github/forks/tazheeb-shamsi/dev-pedia?logoColor=green&style=for-the-badge"></a>
-    <a name="contributions"><img src="https://img.shields.io/github/contributors/tazheeb-shamsi/dev-pedia?logoColor=green&style=for-the-badge"></a>
-    <a name="license"><img src="https://img.shields.io/github/license/tazheeb-shamsi/dev-pedia?style=for-the-badge"></a>
+    <a name="stars"><img src="https://img.shields.io/github/stars/tazheeb-shamsi?style=for-the-badge"></a>
+    <a name="forks"><img src="https://img.shields.io/github/forks/tazheeb-shamsi/DSA-Kit-JavaScript?logoColor=green&style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/tazheeb-shamsi/DSA-Kit-JavaScript?logoColor=green&style=for-the-badge"></a>
+    <a name="license"><img src="https://img.shields.io/github/license/tazheeb-shamsi/DSA-Kit-JavaScript?style=for-the-badge"></a>
   </p>
   Show your support by giving a ⭐&nbsp;&nbsp;to this repo
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on *devPedia*, a community for developers<br><br>🌱 I’m currently learning DS Algo, Rust, Next.js<br><br>🤝 I’m looking for help with Node.js<br><br>👨‍💻 All of my projects are available at tazheeb.com<br><br>💬 Ask me about React Js<br><br>📄 Know about my experiences click here tazheeb.com<br><br>⚡ Fun fact tea over coffee
+🔭 I’m currently working on 
+<a href="https://devpedia.in">*devPedia*</a>, a community for developers
+<br><br>🌱 I’m currently learning DS Algo, Docker, Kubernetes
+<br><br>🤝 I’m looking for help with Docker & Kubernetes
+<br><br>👨‍💻 All of my projects are available at <a href="https://tazheeb.onrender.com">tazheeb.com</a>
+<br><br>💬 Ask me about React.js & Node.js
+<br><br>📄 Know about my experiences click here <a href="https://tazheeb.onrender.com">tazheeb.com</a>
+<br><br>⚡ Fun fact tea over coffee
 
 
 ## 🌐 Socials:
