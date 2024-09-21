@@ -6,8 +6,8 @@
   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/tazheeb-shamsi?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/tazheeb-shamsi/DSA-Kit-JavaScript?logoColor=green&style=for-the-badge"></a>
-    <a name="contributions"><img src="https://img.shields.io/github/contributors/tazheeb-shamsi/DSA-Kit-JavaScript?logoColor=green&style=for-the-badge"></a>
-    <a name="license"><img src="https://img.shields.io/github/license/tazheeb-shamsi/DSA-Kit-JavaScript?style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/tazheeb-shamsi/tazheeb-shamsi?logoColor=green&style=for-the-badge"></a>
+    <a name="license"><img src="https://img.shields.io/github/license/tazheeb-shamsi/tazheeb-shamsi?style=for-the-badge"></a>
   </p>
   Show your support by giving a ⭐&nbsp;&nbsp;to this repo
 </div>
